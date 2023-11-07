@@ -1,0 +1,32 @@
+.manage-count-container {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    height: 40px;
+    width: 110px;
+    margin-top: 110px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-family: Arial;
+
+}
+
+.increase{
+    border-color: #38d438;
+    background-color: #4ad04a;
+}
+
+.decrease{
+    background-color: #e52d2d;
+    border-color: #ef2b2b;
+}
+
+.reset{
+    background-color: #9d9a9a;
+    color: black;
+    border-color: #bdbbbb;
+}

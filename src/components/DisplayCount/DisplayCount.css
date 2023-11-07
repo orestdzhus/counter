@@ -1,0 +1,21 @@
+.display-count-container {
+    height: 200px;
+    width: 400px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 270px;
+    border-radius: 5px;
+    box-shadow: 0 0 0 1px #b9723c;
+}
+
+.heading {
+    font-family: Arial;
+}
+
+.current-value{
+    font-size: 44px;
+    font-family: "Agency FB";
+}

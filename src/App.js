@@ -1,9 +1,11 @@
+import {AppContainer} from "./components/AppContainer/AppContainer";
+import './App.css';
 
 function App() {
     return (
-        <div className="App">
-            <div>what what</div>
-        </div>
+        <>
+          <AppContainer/>
+        </>
     );
 }
 
